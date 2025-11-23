@@ -21,6 +21,8 @@ TEST öevel 3
 3.  Blue
 4.  
 ![Bild]
+![BilD]
 Efter bild
 
-[Bild]: /RanViewer/celltower.png "Title"
+[BildD]: celltower.png "Title"
+[Bild]: /celltower.png "Title"
