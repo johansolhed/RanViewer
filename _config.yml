@@ -4,6 +4,8 @@ theme: just-the-docs
 
 url: https://johansolhed.github.io/RanViewer
 #logo: "/celltower.png"
+logo: "/celltower.png"
+favicon_ico: "/celltower.png"
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/johansolhed/RanViewer
