@@ -24,4 +24,4 @@ TEST öevel 3
 
 Efter bild
 
-[Bilden]: {{ "/assets/images/celltower.png" | relative_url }}
+[Bilden]: {{ "assets/images/celltower.png" | relative_url }}
