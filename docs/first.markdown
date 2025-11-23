@@ -23,4 +23,4 @@ TEST öevel 3
 ![Bild]
 Efter bild
 
-[Bild]: https://github.com/johansolhed/RanViewer/celltower.png "Title"
+[Bild]: celltower.png "Title"
