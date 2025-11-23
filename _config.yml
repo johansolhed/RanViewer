@@ -3,6 +3,7 @@ description: RanViewer home page
 theme: just-the-docs
 
 url: https://johansolhed.github.io/RanViewer
+baseurl: "/"
 #logo: "/celltower.png"
 logo: "/celltower.png"
 favicon_ico: "/celltower.png"
