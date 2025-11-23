@@ -8,8 +8,8 @@ url: https://johansolhed.github.io/RanViewer
 
 #logo: "/celltower.png"
 #logo: "/assets/images/celltower.png"
-logo: "/assets/images/Icon-29x29@3x.png"
-favicon_ico: "/assets/images/Icon-29x29@2x.png"
+logo: "/assets/images/Icon-29x29@3x.png" 
+favicon_ico: "/assets/images/favicon.ico" 
 
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: https://github.com/johansolhed/RanViewer
