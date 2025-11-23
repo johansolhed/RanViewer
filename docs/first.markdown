@@ -24,5 +24,5 @@ TEST öevel 3
 ![BilD]
 Efter bild
 
-[BildD]: celltower.png "Title"
+[BildD]: ./celltower.png "Title"
 [Bild]: /celltower.png "Title"
