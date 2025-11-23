@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://johansolhed.github.io/RanViewer
 
-baseurl: "/"
+#baseurl: "/RanViewer"
 
 #logo: "/celltower.png"
 logo: "/celltower.png"

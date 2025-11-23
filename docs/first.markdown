@@ -22,7 +22,9 @@ TEST öevel 3
 4.  
 ![Bild]
 ![BilD]
+![BilDD]
 Efter bild
 
+[BildDD]: {{ "/celltower.png" | relative_url }}
 [BildD]: ./celltower.png "Title"
 [Bild]: /celltower.png "Title"
