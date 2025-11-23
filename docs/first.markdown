@@ -20,11 +20,8 @@ TEST öevel 3
 2.  Green
 3.  Blue
 4.  
-![Bild]
-![BilD]
-![BilDD]
+![Bilden]
+
 Efter bild
 
-[BildDD]: {{ "/celltower.png" | relative_url }}
-[BildD]: ./celltower.png "Title"
-[Bild]: /celltower.png "Title"
+[Bilden]: {{ "/assets/images/celltower.png" | relative_url }}
