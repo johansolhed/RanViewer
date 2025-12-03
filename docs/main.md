@@ -4,24 +4,40 @@ layout: home
 nav_order: 2
 ---
 
-A First Level Header
+Main screen
 ====================
-!!!TEST TEST!!! 
+![MainScreen]{:width="40%"}
 
-A Second Level Header
----------------------
-TEST level 2
+Below the map area there are five buttons
 
-### Header 3
+When a site is shown on the map, klicking on the site icon aloows for:
+- Displaying further site info (including site access documentation)
+- Navigation to the site
 
-TEST öevel 3
+![Bilden] Sites
+---------------
+Shows all sites (could take a while if you have many sites)
 
-1.  Red
-2.  Green
-3.  Blue
-4.  
-![Bilden]
+Areas
+-----
+Shows all location areas/tracking areas
+When an area is shown. Sites in that area can be shown by clicking on the area icon
 
-Efter bild
+Trash
+-----
+Emptys the screen
+
+Settings
+-------
+Takes you to the settings page
+
+Search
+------
+Search for site or address (long press)
+
+Siri can also be uset to search for sites using spoken language
+Hey Siri - "Ranviewer search for site"
+
 
 [Bilden]: {{ "assets/images/celltower.png" | relative_url }}
+[MainScreen]: {{ "assets/images/MainScreen.png" | relative_url }}
