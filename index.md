@@ -11,6 +11,3 @@ In the menu you will find help on all app screens
 There is also information about how the input files are structured
 
 
-
-Copyright (2025) Johan Solhed
-
