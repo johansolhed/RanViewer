@@ -40,4 +40,4 @@ Hey Siri - "Ranviewer search for site"
 
 
 [Bilden]: {{ "assets/images/celltower.png" | relative_url }}
-[MainScreen]: {{ "assets/images/MainScreen.png" | relative_url }}
+[MainScreen]: {{ "assets/images/MainScreenDemo.png" | relative_url }}
