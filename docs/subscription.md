@@ -15,10 +15,14 @@ Exactly same features as in DEMO MODE but for your own network
 
 Observe that the DEMO MODE is made on fake data. Street wiews on your real data will be more interesting.
 
-![Bilden]{:width="40%"}
+![CellTower]{:width="40%"}
+![Rooftop]{:width="40%"}
+![GF]{:width="40%"}
 
 
-[Bilden]: {{ "assets/images/CelltowerReal.png" | relative_url }}
+[CellTower]: {{ "assets/images/CelltowerReal.png" | relative_url }}
+[Rooftop]: {{ "assets/images/Rooftop.png" | relative_url }}
+[GF]: {{ "assets/images/GreenField.png" | relative_url }}
 
 
 
