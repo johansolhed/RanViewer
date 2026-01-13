@@ -3,7 +3,7 @@ title: Privacy Policy
 layout: default
 nav_order: 6
 ---
-Ran Viewer Privacy Policy
+RanViewer Privacy Policy
 ======================
 
 This Privacy Policy describes how the RanViewer App handles your information when you use the app.
