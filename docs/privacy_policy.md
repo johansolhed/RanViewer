@@ -6,7 +6,7 @@ nav_order: 6
 Ran Viewer Privacy Policy
 ======================
 
-This Privacy Policy describes how the Ran Viewer App handles your information when you use the app.
+This Privacy Policy describes how the RanViewer App handles your information when you use the app.
 
 1. <b>No Information Collection</b> - We do not collect, store, or process any personal information from our users. This includes names, email addresses, IP addresses, location data, or any other personally identifiable information.
 
